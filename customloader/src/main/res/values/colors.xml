@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Loader -->
+    <color name="loader_text_color">#000000</color>
+    <color name="loader_background_overlay">#99FFFFFF</color>
+
+</resources>
